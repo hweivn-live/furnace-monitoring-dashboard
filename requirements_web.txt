@@ -1,0 +1,6 @@
+# Web Dashboard Requirements
+# Minimal dependencies for Streamlit web dashboard
+
+streamlit>=1.31.0
+pandas>=2.0.0
+pillow>=10.0.0
